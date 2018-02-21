@@ -1,0 +1,8 @@
+.venv
+/venv
+*.pyc
+*.swp
+secret.py
+.secret.py
+.idea/
+/idea
